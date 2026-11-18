@@ -95,17 +95,21 @@ client_socket.close()
 ```text
 Echo Server is waiting for connection...
 Connected to: ('127.0.0.1', 54321)
-Client: Hello
-Client: How are you?
+Client: hi
+Client: i am mano
+Client: How are you
 ```
 
 **Client Side:**
 ```text
-Enter message: Hello
-Server echoed: Hello
+Enter message: hi
+Server echoed: hi
 
-Enter message: How are you?
-Server echoed: How are you?
+Enter message: i am mano
+Server echoed: i am mano
+
+Enter message: how are you
+Server echoed: how are you
 ```
 
 ## HOW TO EXECUTE
