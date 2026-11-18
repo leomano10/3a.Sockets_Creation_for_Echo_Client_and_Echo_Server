@@ -97,7 +97,7 @@ Echo Server is waiting for connection...
 Connected to: ('127.0.0.1', 54321)
 Client: hi
 Client: i am mano
-Client: How are you
+Client: what is your name
 ```
 
 **Client Side:**
@@ -108,8 +108,8 @@ Server echoed: hi
 Enter message: i am mano
 Server echoed: i am mano
 
-Enter message: how are you
-Server echoed: how are you
+Enter message: what is your name
+Server echoed: what is your name
 ```
 
 ## HOW TO EXECUTE
